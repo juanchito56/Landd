@@ -403,3 +403,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Apr2025 18:09:18.256] [Server thread/INFO] [the_vmod/]: Deserialized 0 VEntities
 [21Apr2025 18:09:18.457] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
 [21Apr2025 18:09:18.552] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[21Apr2025 18:19:31.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@20944995[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:52973): Took too long to log in
+[21Apr2025 18:19:31.364] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20944995[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:52973) lost connection: Took too long to log in
+[21Apr2025 18:19:31.409] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 18:20:29.909] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@670b00de[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:38199): Took too long to log in
+[21Apr2025 18:20:29.910] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@670b00de[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:38199) lost connection: Took too long to log in
+[21Apr2025 18:20:29.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 18:21:17.259] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@15a1bd8b[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:47677): Took too long to log in
+[21Apr2025 18:21:17.261] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15a1bd8b[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:47677) lost connection: Took too long to log in
+[21Apr2025 18:21:17.309] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 18:22:03.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@237f4aa9[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:43921): Took too long to log in
+[21Apr2025 18:22:03.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@237f4aa9[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:43921) lost connection: Took too long to log in
+[21Apr2025 18:22:03.459] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Apr2025 18:22:58.059] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5f0a9645[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:33309): Took too long to log in
+[21Apr2025 18:22:58.060] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f0a9645[id=<null>,name=Sanosky,properties={},legacy=false] (/127.168.202.157:33309) lost connection: Took too long to log in
+[21Apr2025 18:22:58.109] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
