@@ -95,3 +95,11 @@
 [05May2025 16:04:12.577] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
 [05May2025 16:06:19.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kick_Reyatgr[/127.87.204.144:50837] logged in with entity id 143 at (138.96485942249294, 165.28713989257812, -1310.009968493394)
 [05May2025 16:06:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr joined the game
+[05May2025 16:38:24.943] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@58de4ba8[id=<null>,name=Sfog,properties={},legacy=false] (/127.168.202.157:55673): Took too long to log in
+[05May2025 16:38:24.944] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58de4ba8[id=<null>,name=Sfog,properties={},legacy=false] (/127.168.202.157:55673) lost connection: Took too long to log in
+[05May2025 16:38:24.989] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05May2025 16:39:04.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sfog[/127.168.202.157:48005] logged in with entity id 13604 at (455.6794286511654, 122.89060116630269, 2.095004401569585)
+[05May2025 16:39:04.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog joined the game
+[05May2025 16:41:42.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the weather to clear]
+[05May2025 16:41:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[05May2025 16:42:29.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to Kick_Reyatgr]

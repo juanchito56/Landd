@@ -1031,9 +1031,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-05 16:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-05-05 16:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-05 16:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-05-05 16:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-05 16:29:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-05-05 16:29:40 +0000"
     },
     "done": true
   },
