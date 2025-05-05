@@ -32,7 +32,21 @@
     "rechiseled:lapis_block",
     "rechiseled:prismarine_bricks",
     "rechiseled:red_sandstone",
-    "rechiseled:sandstone"
+    "rechiseled:sandstone",
+    "create:cut_granite",
+    "create:cut_diorite",
+    "create:cut_andesite",
+    "create:cut_calcite",
+    "create:cut_dripstone",
+    "create:cut_deepslate",
+    "create:cut_tuff",
+    "create:cut_asurine",
+    "create:cut_crimsite",
+    "create:cut_limestone",
+    "create:cut_ochrum",
+    "create:cut_scoria",
+    "create:cut_scorchia",
+    "create:cut_veridium"
   ],
   "ingredients": {
     "vanillaIngredients": [],
