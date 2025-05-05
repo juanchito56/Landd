@@ -236,10 +236,25 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-05-05 16:42:29 +0000",
+      "minecraft:birch_forest": "2025-05-05 19:13:34 +0000",
+      "minecraft:savanna_plateau": "2025-05-05 19:40:11 +0000",
+      "minecraft:beach": "2025-05-05 19:29:34 +0000",
+      "minecraft:dark_forest": "2025-05-05 19:13:38 +0000",
+      "minecraft:stony_peaks": "2025-05-05 19:31:49 +0000",
+      "minecraft:sparse_jungle": "2025-05-05 19:40:25 +0000",
       "minecraft:river": "2025-05-05 17:01:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-05 19:29:35 +0000",
+      "minecraft:stony_shore": "2025-05-05 19:29:52 +0000",
+      "minecraft:grove": "2025-05-05 19:10:49 +0000",
+      "minecraft:jagged_peaks": "2025-05-05 19:10:47 +0000",
       "minecraft:forest": "2025-05-05 04:46:13 +0000",
+      "minecraft:desert": "2025-05-05 19:42:14 +0000",
+      "minecraft:jungle": "2025-05-05 19:30:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-05 19:29:39 +0000",
       "minecraft:flower_forest": "2025-05-05 04:42:08 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-05 19:13:35 +0000",
       "minecraft:meadow": "2025-05-05 04:46:52 +0000",
+      "minecraft:savanna": "2025-05-05 19:39:11 +0000",
       "minecraft:plains": "2025-05-05 04:45:49 +0000"
     },
     "done": false
@@ -454,6 +469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-05 19:11:05 +0000"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2025-05-05 18:54:06 +0000"
@@ -499,6 +520,12 @@
   "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
     "criteria": {
       "has_item": "2025-05-05 18:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-05 19:11:05 +0000"
     },
     "done": true
   },
