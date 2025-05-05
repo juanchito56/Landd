@@ -442,5 +442,17 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2025-05-05 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-05 18:33:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
