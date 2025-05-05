@@ -127,3 +127,10 @@
 [05May2025 19:32:07.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog moved too quickly! -6.64892578125,3.768630638122545,7.4974365234375
 [05May2025 19:36:28.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog moved too quickly! 9.956298828125,-1.8975070571899408,7.2808837890625
 [05May2025 19:44:11.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog moved too quickly! -8.7232666015625,8.378059043884264,-8.219757080078125
+[05May2025 19:55:44.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr moved too quickly! 3.854111101130684,0.0,9.618399834560023
+[05May2025 20:00:58.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[05May2025 20:00:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[05May2025 20:00:58.959] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
+[05May2025 20:04:55.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr lost connection: Disconnected
+[05May2025 20:04:55.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr left the game
+[05May2025 20:04:55.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kick_Reyatgr

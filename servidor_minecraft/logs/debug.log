@@ -6323,3 +6323,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05May2025 19:49:28.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05May2025 19:54:28.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 19:54:28.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 19:55:44.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr moved too quickly! 3.854111101130684,0.0,9.618399834560023
+[05May2025 19:59:28.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 19:59:28.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 20:00:58.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[05May2025 20:00:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[05May2025 20:00:58.955] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Sfog
+[05May2025 20:00:58.959] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
+[05May2025 20:04:28.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 20:04:28.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 20:04:55.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kick_Reyatgr lost connection: Disconnected
+[05May2025 20:04:55.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr left the game
+[05May2025 20:04:55.602] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Kick_Reyatgr
+[05May2025 20:04:55.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kick_Reyatgr
